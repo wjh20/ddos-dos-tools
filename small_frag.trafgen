@@ -38,8 +38,8 @@
   // Dynamic IP Checksum (notice offsets are zero indexed)
   csumip(14, 33),
 
-  192, 168, 51, 1, // Source IP
-  192, 168, 51, 2, // Dest IP
+  47.115.156.188, // Source IP
+  47.115.156.188, // Dest IP
 
   // --- UDP Header ---
   //  As this is a fragment the below stuff does not matter too much
